@@ -1,7 +1,7 @@
 # Counter App
 A simple counter app built using HTML, CSS, and JavaScript.
 
-## Live Demo - https://wasim2934.github.io/counter-app/
+## Live Demo - https://wasim2934.github.io/counter-app-js/
 
 ## Features
 - Increase count
